@@ -16,13 +16,6 @@ export function TodoInput({ addTask }: TodoInputProps) {
 
     setTask("");
   }
-  /*
-    EIIIIIIIIIIIII CORRETOR
-
-    NN ENTENDI O MOTIVO DO onSubmitEditing 
-
-    :) 
-  */
 
   return (
     <View style={styles.inputContainer}>
